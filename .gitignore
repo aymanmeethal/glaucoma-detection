@@ -1,0 +1,7 @@
+train/
+val/
+
+GlaucomaDetection.h5
+
+__pycache__/
+*.pyc
