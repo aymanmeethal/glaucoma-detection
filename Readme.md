@@ -136,7 +136,7 @@ glaucoma-detection/
 
 ## Installation
 
-Clone the repository: git clone https://github.com/aymanmeethal/docuquery-rag-system.git
+Clone the repository: git clone https://github.com/aymanmeethal/gaucoma-detection.git
 
 ```bash
 git clone 

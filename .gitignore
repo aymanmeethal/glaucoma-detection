@@ -1,7 +1,7 @@
 train/
 val/
-
-GlaucomaDetection.h5
-
 __pycache__/
 *.pyc
+
+# Model file (optional, recommended)
+GlaucomaDetection.h5
